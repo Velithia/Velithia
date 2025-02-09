@@ -5,7 +5,6 @@
 ---
 
 ### 🚀 About Me
-- 😄 Pronouns: she/her
 - 📫 How to reach me: Through GitHub only
 
 ---
