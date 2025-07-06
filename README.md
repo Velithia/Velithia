@@ -5,7 +5,7 @@
 ---
 
 ### 🚀 About Me
-- 📫 How to reach me: Through GitHub only
+- 📫 How to reach me: Through GitHub or Discord
 
 ---
 
@@ -13,7 +13,8 @@
 - **Languages:**  
   - C++  
   - Python  
-  - Rust  
+  - Rust
+  - Vue.js
 
 --- 
 
